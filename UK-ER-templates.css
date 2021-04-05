@@ -37,6 +37,10 @@
   margin: 17px 0 0;
 }
 
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
 .u-section-1 .u-text-2 {
   line-height: 1.4;
   font-size: 0.9375rem;
