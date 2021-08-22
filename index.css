@@ -443,6 +443,7 @@
 }
 
 .u-section-3 .u-text-3 {
+  font-weight: 700;
   margin: 23px 20px 0 0;
 }
 
@@ -460,7 +461,7 @@
 .u-section-3 .u-image-2 {
   width: 202px;
   height: 57px;
-  margin: -442px 443px -90px auto;
+  margin: -484px 443px 427px auto;
 }
 
 @media (max-width: 1199px) {
@@ -508,7 +509,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    margin-top: -442px;
+    margin-top: -484px;
     margin-right: auto;
   }
 }
