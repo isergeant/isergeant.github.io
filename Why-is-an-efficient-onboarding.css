@@ -1,11 +1,9 @@
-@media (max-width: 1399px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1443px;
-  }
+.u-section-1 .u-sheet-1 {
+  min-height: 1443px;
+}
 
-  .u-section-1 .u-text-1 {
-    margin: 31px 0 0;
-  }
+.u-section-1 .u-text-1 {
+  margin: 31px 0 0;
 }
 
 @media (max-width: 1199px) {
