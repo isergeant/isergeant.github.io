@@ -241,7 +241,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 647px;
+  min-height: 713px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -251,7 +251,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 594px;
+  min-height: 659px;
   pointer-events: auto;
   background-image: url("images/BrownTanThinkOutsideTheBoxQuoteMotivationalMessageInstagramPost.png");
   background-position: 50% 50%;
@@ -262,8 +262,8 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-size: 3.75rem;
-  margin: 71px auto 0;
+  font-size: 3rem;
+  margin: 86px auto 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -272,7 +272,7 @@
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 30px 0 30px 50px;
+  padding: 30px 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -281,13 +281,13 @@
   text-align: left;
   font-weight: 700;
   font-family: Montserrat, sans-serif;
-  margin: 17px 0 0;
+  margin: 17px 17px 0 33px;
 }
 
 .u-section-2 .u-text-3 {
   font-style: italic;
   line-height: 1.8;
-  margin: 27px 0 0;
+  margin: 27px 17px 0 33px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -295,7 +295,7 @@
   border-style: none;
   font-size: 1.25rem;
   letter-spacing: 1px;
-  margin: -96px auto 27px;
+  margin: -96px auto 0;
   padding: 18px 50px 19px 49px;
 }
 
@@ -305,8 +305,6 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    margin-top: 56px;
-    margin-bottom: 25px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -327,26 +325,24 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-btn-1 {
     font-size: 1.125rem;
     margin-top: -76px;
-    margin-bottom: 0;
   }
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 688px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 23px;
-    margin-bottom: 2px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-2 .u-image-1 {
@@ -380,7 +376,8 @@
 
   .u-section-2 .u-layout-wrap-1 {
     width: 743px;
-    margin: 1px auto 21px -3px;
+    margin-right: auto;
+    margin-left: -3px;
   }
 
   .u-section-2 .u-image-1 {
@@ -398,7 +395,7 @@
   .u-section-2 .u-container-layout-2 {
     padding-top: 0;
     padding-right: 0;
-    padding-left: 30px;
+    padding-left: 0;
   }
 
   .u-section-2 .u-text-2 {
@@ -412,8 +409,6 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    margin-top: -7px;
-    margin-bottom: 25px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -437,6 +432,7 @@
   }
 
   .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
     padding-right: 30px;
   }
 
@@ -454,14 +450,6 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 1421px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 0;
-    margin-bottom: 30px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-2 .u-image-1 {
