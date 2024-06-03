@@ -390,22 +390,22 @@
     margin-bottom: 26px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 578px;
+  min-height: 524px;
 }
 
 .u-section-3 .u-group-1 {
   width: 1059px;
-  min-height: 499px;
+  min-height: 465px;
   height: auto;
-  margin: 19px auto 60px;
+  margin: 19px auto 40px;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 30px 26px;
 }
 
 .u-section-3 .u-text-1 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1.2;
   margin: 0;
 }
@@ -440,7 +440,6 @@
 
   .u-section-3 .u-group-1 {
     min-height: 268px;
-    margin-bottom: 40px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
